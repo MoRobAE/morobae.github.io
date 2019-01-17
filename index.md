@@ -18,7 +18,7 @@ Montréal, Québec, Canada in May 2019**.
 
 To submit your work, please consult our **[Call for participation](/cfp)**.
 
-Accepted submissions will be posted on the workshop web site (open to all) and ArXiV. The authors of the accepted submissions will be invited to submit a paper for a **[special issue of Paladyn Journal of Behavioral Robotics(https://www.degruyter.com/page/1890 )**. 
+Accepted submissions will be posted on the workshop web site (open to all) and ArXiV. The authors of the accepted submissions will be invited to submit a paper for a **[special issue of Paladyn Journal of Behavioral Robotics](https://www.degruyter.com/page/1890 )**. 
 
 ### Topics
 
