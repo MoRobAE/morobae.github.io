@@ -40,12 +40,15 @@ Contributions may address but are not limited to the following topics :
 
 Interested authors can submit extended abstracts (2 pages) or papers (4 to
 6 pages) to be presented in brief spotlight talks (2-3 min) or oral
-presentations (12-15 min). The manuscripts should use the IEEE ICRA two-column
-format.
+presentations (12-15 min).
+The manuscripts should use the IEEE two-column format available on  
+[their website](https://www.ieee.org/conferences/publishing/templates.html) in
+**conference** mode.
 
 All submissions will be peer-reviewed and selection will be based on their
 originality, technical quality and clarity, and their relevance to the topic of
 the workshop.
 
-** Details about the submission process will be given soon **
+** The submission deadline is March, 15th 2019. **
+Details about the submission process will be given soon.
 
