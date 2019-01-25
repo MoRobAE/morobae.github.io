@@ -49,6 +49,6 @@ All submissions will be peer-reviewed and selection will be based on their
 originality, technical quality and clarity, and their relevance to the topic of
 the workshop.
 
-** The submission deadline is March, 15th 2019. **
+**The submission deadline is March, 15th 2019.**
 Details about the submission process will be given soon.
 
