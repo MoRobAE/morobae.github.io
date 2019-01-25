@@ -41,7 +41,7 @@ Contributions may address but are not limited to the following topics :
 Interested authors can submit extended abstracts (2 pages) or papers (4 to
 6 pages) to be presented in brief spotlight talks (2-3 min) or oral
 presentations (12-15 min).
-The manuscripts should use the IEEE two-column format available on  
+The manuscripts should use the IEEE two-column format available on
 [their website](https://www.ieee.org/conferences/publishing/templates.html) in
 **conference** mode.
 
