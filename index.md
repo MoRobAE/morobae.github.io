@@ -51,5 +51,4 @@ Topics discussed at the workshop will include but are not limited to:
  * Goldie Nejat, University of Toronto, Canada
  * Eva Barrett, NUI Galway, Ireland
  * Dympna Casey, NUL Galway, Ireland
- * Dimitrios Tzovaras, Information Technologies Institute, Greece
 
