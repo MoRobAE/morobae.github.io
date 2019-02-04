@@ -16,6 +16,7 @@ We therefore encourage researchers that want to discuss such projects to partipa
 workshop, which will be held during **[ICRA 2019](https://icra2019.org) in 
 Montréal, Québec, Canada in May 2019**.
 
+**Submissions are now open!**
 To submit your work, please consult our **[Call for participation](/cfp)**.
 
 Accepted submissions will be posted on the workshop web site (open to all) and ArXiV. The authors of the accepted submissions will be invited to submit a paper for a **[Special issue of PALADYN Journal of Behavioral Robotics](https://www.degruyter.com/page/1890 )**. 
