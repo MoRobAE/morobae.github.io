@@ -50,5 +50,6 @@ originality, technical quality and clarity, and their relevance to the topic of
 the workshop.
 
 **The submission deadline is March, 15th 2019.**
-Details about the submission process will be given soon.
+
+To submit your paper, please go to our [EasyChair site](https://easychair.org/conferences/?conf=morobae2019).
 
