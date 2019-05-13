@@ -2,6 +2,8 @@
 
 ## ICRA 2019 Edition
 
+**[The full program is now available](/program)**
+
 All around the world, the increasing size of the senior population combined with
 small population growth bring a decline in the number of people of working age
 who support the costs of the system, and a lack of resources to treat patients
